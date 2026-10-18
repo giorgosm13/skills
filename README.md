@@ -5,8 +5,6 @@
 
 # Skills For Designers and Engineers
 
-[![skills.sh](https://skills.sh/b/emilkowalski/skills)](https://skills.sh/emilkowalski/skills)
-
 For designers and engineers to help them build better user interfaces.
 
 Knowing whether you made a right choice when it comes to animations, or design in general, is hard. These skills aim to help you get to those right decisions faster.
