@@ -16,8 +16,6 @@ So learn to code, design, or develop expertise in any other field. It’s extrem
 
 You can stay up to date with my skills here:
 
-[Sign Up To The Newsletter](https://aiforui.dev/skills)
-
 ## Install
 
 ```bash
@@ -28,11 +26,11 @@ npx skills@latest add giorgosm13/skills
 
 Agents don’t have great taste
 
-I have seen plenty of times that agents don’t pick the right ingredients for an animation. An `ease-in` easing for an enter animation when it’s supposed to be `ease-out` ([here’s why](https://emilkowal.ski/ui/7-practical-animation-tips#4.-choose-the-right-easing)). Or they choose a solid border instead of a semi-transparent shadow for your UIs.
+I have seen plenty of times that agents don’t pick the right ingredients for an animation. An `ease-in` easing for an enter animation when it’s supposed to be `ease-out`. Or they choose a solid border instead of a semi-transparent shadow for your UIs.
 
 All these small things compound and make your interface either amazing, or just... not that great.
 
-As explained in [Agents with Taste](https://emilkowal.ski/ui/agents-with-taste), these skills list all the little mistakes agents can potentially make and explain how to fix them.
+As explained in [Agents with Taste], these skills list all the little mistakes agents can potentially make and explain how to fix them.
 
 This is your shortcut to great interfaces. A shortcut to stand out in a sea of slop.
 
@@ -52,4 +50,4 @@ This is your shortcut to great interfaces. A shortcut to stand out in a sea of s
 - **[prototype](./skills/prototype/SKILL.md)** — Build multiple different versions of a UI piece you describe and go through them using a switcher.
 - **[mobile-native](./skills/mobile-native/SKILL.md)** — Make your web app feel native on a phone: sticky hover states, tap highlight flashes, the 100vh bug, inputs that zoom the page, laggy taps, safe areas, and the rest of the small fixes that separate a website from an app.
 - **[break-ui](./skills/break-ui/SKILL.md)** — Try to break the UI you built with worst-case data: long names, unusual emails, one-letter names, huge counts, empty lists, long labels.
-- **[ask-sonner](./skills/ask-sonner/SKILL.md)** — Your guide to working with [Sonner](https://sonner.emilkowal.ski), my toast library. Contains setup, styling, recipes, and fixes for the most common issues.
+- **[ask-sonner](./skills/ask-sonner/SKILL.md)** — Your guide to working with [Sonner], my toast library. Contains setup, styling, recipes, and fixes for the most common issues.
