@@ -22,7 +22,7 @@ You can stay up to date with my skills here:
 ## Install
 
 ```bash
-npx skills@latest add emilkowalski/skills
+npx skills@latest add giorgosm13/skills
 ```
 
 ## Why use it?
